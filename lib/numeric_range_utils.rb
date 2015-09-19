@@ -1,5 +1,4 @@
 class NumericRangeUtils
-
   def self.range_value_from_position(range, position)
     range_from_zero = shift_range(range, -range.first)
 
@@ -27,3 +26,4 @@ class NumericRangeUtils
   end
 
 end
+
