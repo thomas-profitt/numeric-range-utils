@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'numeric-range-utils'
+  s.name        = 'numeric_range_utils'
   s.version     = '0.0.1'
   s.date        = '2015-09-19'
   s.summary     = "A class with a collection of class methods for " <<
@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
                   "manipulating numeric ranges"
   s.authors     = ["Thomas Profitt"]
   s.email       = 'tomdprofitt@gmail.com'
-  s.files       = ["lib/numeric-range-utils.rb"]
+  s.files       = ["lib/numeric_range_utils.rb"]
   s.license     = 'MIT'
 end
