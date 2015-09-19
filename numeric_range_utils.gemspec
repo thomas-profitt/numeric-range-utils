@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
                   "manipulating numeric ranges"
   s.authors     = ["Thomas Profitt"]
   s.email       = 'tomdprofitt@gmail.com'
-  s.files       = ["lib/range_utils.rb"]
+  s.files       = ["lib/numeric_range_utils.rb"]
   s.license     = 'MIT'
 end
